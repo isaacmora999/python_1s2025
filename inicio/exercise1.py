@@ -1,6 +1,0 @@
-print("datos del estudiante")
-print("="*20)
-print("nombre: ", end=" ")
-print("jose alejandro")
-print("apellidos: ",end=" ")
-print("duran garcia")
